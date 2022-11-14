@@ -1,0 +1,1 @@
+This Directory Contain some simple opencv python projects which consider a great push for people who is starting learing opencv.Hope you enjoy it. 
